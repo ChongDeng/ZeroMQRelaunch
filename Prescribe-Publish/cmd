@@ -1,0 +1,2 @@
+gcc wuserver.c -lzmq -o server
+gcc wuclient.c -lzmq -o client
