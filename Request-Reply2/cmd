@@ -1,0 +1,2 @@
+gcc hwserver.c -lzmq -o server
+gcc hwclient.c -lzmq -o client
