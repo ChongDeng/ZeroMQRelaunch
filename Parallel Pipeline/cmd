@@ -1,0 +1,3 @@
+gcc tasksink.c -lzmq -o tasksink
+gcc taskvent.c -lzmq -o taskvent
+gcc taskworker.c -lzmq -o taskworker
